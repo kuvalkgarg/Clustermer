@@ -27,8 +27,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 5. Finally, the program will visualize the clusters using a scatter plot.
 
 # Snapshots
-## 
-![](.png)
+## Elbow Method to Determine the Value of K
+![Elbow Method Graph to determine the value of k](elbow.png)
 
 ## Sample Scatter-Plot Indicating the Clusters of Customers
 ![Sample screenshot of the scatter-plot](cluster.png)
